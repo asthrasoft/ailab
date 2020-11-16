@@ -1,0 +1,14 @@
+## Welcome to the Applied Intelligence Lab Repository
+
+The Applied Intelligence Lab focusses on real world Ai experiments. Projects are business use cases that are mapped to challenges that startups and enterprises are trying to solve. For the project, we hae a series of experiments that aim to solve the challenge using AI and ML technologies.
+The lab is primarily run by Asthrasoft, but projects or experiments can be sponsored by different entities. All the projects and experiment repositories are listed below.
+
+### P0001 - Working with Gait Analysis for rehabilitation
+#### DataSets
+1. 
+2. 
+3.
+
+#### Experiments
+1. X01 - Using SVM on the
+2. 
